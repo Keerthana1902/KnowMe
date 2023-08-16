@@ -1,0 +1,45 @@
+* {
+    font-family: calibri;
+}
+body{
+    margin: 0;
+    background-color: rgb(137, 163, 210);
+}
+#name{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+    padding-left: 15px;
+}
+.titles{
+    font-size: 25px;
+    color:azure;
+    font-weight: bold;
+    background-color: rgb(66, 66, 169);
+    padding-left: 15px;
+    margin: 0;
+}
+.inside-text{
+    padding-left: 15px;
+}
+.text-bold{
+    font-weight: bold;
+}
+.inside-table{
+    width: 1000px;
+}
+.inside-table, .inside-table th, .inside-table td{
+    margin: 20px; 
+    border: 5px solid black;
+    border-width: 1px;
+    border-collapse: collapse;
+}
+.inside-table td{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.div1{
+    background-color: azure;
+    padding-left: 15px;
+}
+
